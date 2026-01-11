@@ -1,0 +1,5 @@
+{
+  "name": "3D Fibonacci Nature Explorer",
+  "description": "An interactive 3D visualization exploring the mathematical beauty of Fibonacci spirals in seashells, sunflowers, and pinecones using React and Three.js.",
+  "requestFramePermissions": []
+}
